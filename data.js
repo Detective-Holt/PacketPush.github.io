@@ -9,7 +9,7 @@ const SITE = {
   name: "Bruce Mpepoimba",
   tagline: "Notes, lab write-ups and projects from my journey into network engineering.",
   email: "fbm165@gmail.com",
-  github: "https://github.com/yourusername",   // TODO: replace with your GitHub profile URL
+  github: "https://github.com/Detective-Holt",
   linkedin: "https://www.linkedin.com/in/gaai/",
   footerBlurb: "Sharing what I learn on the road to becoming a network engineer."
 };
