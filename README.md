@@ -1,4 +1,4 @@
-# NetworkingPro: a free blog and portfolio site
+# PacketPush: a free blog and portfolio site
 
 A plain HTML/CSS/JS site (no build step, no dependencies). All content lives in **`data.js`**.
 

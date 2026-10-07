@@ -5,7 +5,7 @@
    ============================================================ */
 
 const SITE = {
-  brand: "NetworkingPro",                 // site name shown in the header
+  brand: "PacketPush",                 // site name shown in the header
   name: "Bruce Mpepoimba",
   tagline: "Notes, lab write-ups and projects from my journey into network engineering.",
   email: "fbm165@gmail.com",
